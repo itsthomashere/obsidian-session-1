@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "6c3b5b5f3b770841",
+    "type": "split",
+    "children": [
+      {
+        "id": "9337474ae68af36a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "288731a26c44aeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 1 with Thomas and Thembani.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34fe55a1179eb7da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad0c6228f90cfe10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5e5b96bd931965",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de96029d7047578b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ddb7dc7e9684ccc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "50ea3c5428ea5f4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a195e9553b8c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699e52cc304295ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session 1 with Thomas and Thembani.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a83adeb60f0ce779",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session 1 with Thomas and Thembani.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8731c8e27caa9dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e541cca6ca3593a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session 1 with Thomas and Thembani.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "288731a26c44aeb7",
+  "lastOpenFiles": [
+    "Attachments/session-1/recording/session 1.mp4",
+    "Attachments/session-1/recording",
+    "Attachments/session-1/video/session 1.mp4",
+    "Attachments/session-1/video",
+    "Attachments/session-1/content/session 1.mp4",
+    "Attachments/session-1/content",
+    "Mind Maps/Session 1.canvas",
+    "Session 1 with Thomas and Thembani.md",
+    "Welcome.md",
+    "Attachments/session-1/images/1.1) printing.png",
+    "Attachments/session-1/images/2.1) PEMDAS.png",
+    "Mind Maps",
+    "Attachments/session-1/images/Screenshot 2024-01-04 at 12.01.22.png",
+    "Attachments/session-1/images/1.2) comments.png",
+    "Attachments/session-1/images/Screenshot 2024-01-04 at 12.00.58.png",
+    "Attachments/session-1/images",
+    "Attachments/session-1",
+    "Attachments"
+  ]
+}
